@@ -1,0 +1,18 @@
+[package]
+name = "debug_print"
+version = "1.0.0"
+authors = ["RustyNixiTube"]
+edition = "2018"
+description = "print only in debug build"
+documentation = "https://docs.rs/debug_print"
+readme = "README.md"
+repository = "https://github.com/RustyNixieTube/debug_print"
+license = "MIT/Apache-2.0"
+keywords = ["debug", "print"]
+#TODO categories = []
+publish = false
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+

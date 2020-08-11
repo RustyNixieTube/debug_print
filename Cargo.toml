@@ -9,8 +9,8 @@ readme = "README.md"
 repository = "https://github.com/RustyNixieTube/debug_print"
 license = "MIT/Apache-2.0"
 keywords = ["debug", "print"]
-#TODO categories = []
-publish = false
+categories = ["development-tools", "development-tools::debugging"]
+publish = true
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
